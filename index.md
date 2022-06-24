@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 
 [Diffusion Model Simulation](http://alex-fennell.shinyapps.io/diffusion_simulation/?_ga=2.245169286.289057636.1656100003-490609204.1652300330)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/plot of Decision Time course-1.gif?raw=true"/>
 
 ---
 [Data Cleaning and EDA of Storm Data](https://afenne4.github.io/Reproducible-Research-CP2/)
