@@ -9,3 +9,5 @@ description: >
   <a href="https://www.linkedin.com/in/alex-fennell/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
