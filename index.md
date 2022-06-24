@@ -9,7 +9,8 @@
 
 ---
 [Data Cleaning and EDA of Storm Data](https://afenne4.github.io/Reproducible-Research-CP2/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Simulationplots.png?raw=true"/>
+<img src="images/toothboxplot.png?raw=true"/>
 
 ---
 [Central Limit Theorem Simulation and Inferential Analysis](https://afenne4.github.io/Exponential-Simulation-and-Inferential-Analysis/)
