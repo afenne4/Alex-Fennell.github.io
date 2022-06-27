@@ -4,6 +4,11 @@
 
 ### Machine Learning Projects 
 
+[Exercise Quality Multiclass Classification using PCA](https://afenne4.github.io/Weight-Training-Classification/)
+<br>
+<img src="images/pcaplot2.png.png?raw=true"/>
+
+---
 
 [Data Cleaning and EDA of Storm Data](https://afenne4.github.io/Reproducible-Research-CP2/)
 <br>
@@ -15,7 +20,7 @@
 <img src="images/Simulationplots.png?raw=true"/>
 
 ---
-### Graduate School Research
+### Interactive Applications
 [Diffusion Model Simulation using Shiny R](http://alex-fennell.shinyapps.io/diffusion_simulation/?_ga=2.245169286.289057636.1656100003-490609204.1652300330)
 <br>
 <img src="images/plot of Decision Time course-1.gif?raw=true"/>
