@@ -6,7 +6,7 @@
 
 [Exercise Quality Multiclass Classification using PCA](https://afenne4.github.io/Weight-Training-Classification/)
 <br>
-<img src="images/pcaplot2.png.png?raw=true"/>
+<img src="images/pcaplot2.png?raw=true"/>
 
 ---
 
