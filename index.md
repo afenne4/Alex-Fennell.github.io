@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 [Imbalanced Classification with Insurance Data](https://afenne4.github.io/Insurance-Project/)
 <br>
-<img src="images/pcaplot2.png?raw=true"/>
+<img src="images/parameter_plot.png?raw=true"/>
 
 ---
 
