@@ -28,9 +28,14 @@
 ---
 
 ### Interactive Applications
+[Spatially Continuous Diffusion Model Simulation using SHiny R](https://alex-fennell.shinyapps.io/SCDM-Simulation/?_ga=2.265969613.313520501.1672930931-1697871280.1672595757)
+<br>
+<img src="images/SCDMAccumulation.gif?raw=true"/>
+
+---
+
 [Diffusion Model Simulation using Shiny R](http://alex-fennell.shinyapps.io/diffusion_simulation/?_ga=2.245169286.289057636.1656100003-490609204.1652300330)
 <br>
 <img src="images/plot of Decision Time course-1.gif?raw=true"/>
 
 ---
-
